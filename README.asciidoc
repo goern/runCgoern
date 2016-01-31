@@ -12,3 +12,10 @@ Text.
 
 === Level 2
 Text.
+
+[source, java]
+----
+public static void main(String...) {
+  System.out.println("I can haz color?");
+}
+----
